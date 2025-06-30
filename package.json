@@ -1,4 +1,7 @@
 {
+  "name": "TASK-JUNE-30",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,9 +14,5 @@
   },
   "devDependencies": {
     "vite": "^5.2.0"
-  }
-
-  "dependencies": {
-    "react-router-dom": "^6.30.1"
   }
 }
